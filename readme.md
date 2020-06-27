@@ -6,6 +6,9 @@ xohw20_244
 ## Project name: 
 Efficient SIMD 2D convolution engine for FPGA-based heterogeneous embedded systems
 
+## Project link:
+https://github.com/AMigali/SIMD_CE
+
 ## Date: 
 2020/06/27
 
