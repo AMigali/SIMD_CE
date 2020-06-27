@@ -1,0 +1,26 @@
+AXI Direct Memory Access (7.1)
+
+DMA0 
+
+Enable Asynchronous Clocks	Disabled
+Enable Scatter-Gather Engine	Disabled
+Enable Micro DMA	        Disabled
+Enable Multi Channel Support	Disabled
+Enable Control/Status Stream	Disabled
+Width of Buffer Length Register	23
+AddressWidth (32-64)		32
+
+Read Channel			Enabled
+Number of Channels	        1
+Memory Map Data Width	        32
+Stream Data Width	        16
+Max Burst Size	                16
+Allow Unaligned Transfers	Disabled
+
+Write Channel			Enabled
+Number of Channels	        1
+Memory Map Data Width	        32
+Stream Data Width               32
+Max Burst Size	                16
+Allow Unaligned Transfers	Disabled
+Use RxLength in Status Stream	Disabled
