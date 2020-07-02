@@ -68,12 +68,3 @@ else
     errMat=InputIMG_filt-ResIMG;
     [errRow,errCol]=find(errMat ~= 0);
 end 
-% 
-% temp=zeros(64,1);   
-% 
-%         for jj=1:2:64
-%                 temp=a(:,jj+1);
-%                 a(:,jj+1)=a(:,jj);
-%                 a(:,jj)=temp;
-%         end
-
